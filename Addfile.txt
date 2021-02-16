@@ -1,6 +1,10 @@
 how to add text file in github
 
+
+code 3 added
+
 How is going
+
 
 good luck
 Lokesh Mallick
@@ -10,3 +14,4 @@ Github
 
 Git
 First Code
+code 2 added
